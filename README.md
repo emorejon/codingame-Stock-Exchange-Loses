@@ -1,0 +1,1 @@
+# codingame-Stock-Exchange-Loses
